@@ -1,0 +1,634 @@
+[
+	{
+		"id": "il9np630",
+		"imageURL": "https://fwcdn.pl/fpo/06/60/660/6924574.3.jpg",
+		"title": "Gorączka",
+		"summary": "Sensacyjny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "xi2ij563",
+		"imageURL": "https://fwcdn.pl/fpo/10/68/1068/7500874.3.jpg",
+		"title": "Pluton",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "yp9v5937",
+		"imageURL": "https://fwcdn.pl/fpo/81/43/798143/7895390.3.jpg",
+		"title": "Parasite",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "kyg68272",
+		"imageURL": "https://fwcdn.pl/fpo/63/51/236351/7198307.3.jpg",
+		"title": "Mroczny Rycerz",
+		"summary": "Akcja / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "pv4m3h826",
+		"imageURL": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+		"title": "Władca Pierścieni: Drużyna Pierścienia",
+		"summary": "Fantasy / Przygodowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "aav5a31",
+		"imageURL": "https://fwcdn.pl/fpo/77/47/137747/7276639.3.jpg",
+		"title": "Bękarty wojny",
+		"summary": "Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "3hejt400",
+		"imageURL": "https://fwcdn.pl/fpo/60/05/136005/7518097.3.jpg",
+		"title": "Infiltracja",
+		"summary": "Kryminał",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "1or2s5",
+		"imageURL": "https://fwcdn.pl/fpo/43/78/694378/7632114.3.jpg",
+		"title": "Bogowie",
+		"summary": "Biograficzny / Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "n2d6g931",
+		"imageURL": "https://fwcdn.pl/fpo/32/88/33288/6900537.3.jpg",
+		"title": "Spirited Away: W krainie Bogów",
+		"summary": "Fantasy / Przygodowy / Anime",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "qm700l506",
+		"imageURL": "https://fwcdn.pl/fpo/10/45/1045/7563795.3.jpg",
+		"title": "Łowca jeleni",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ltt92930",
+		"imageURL": "https://fwcdn.pl/fpo/99/35/449935/7350038.3.jpg",
+		"title": "Mój przyjaciel Hachiko",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "6ohim730",
+		"imageURL": "https://fwcdn.pl/fpo/05/42/790542/7881430.3.jpg",
+		"title": "Avengers: Koniec gry",
+		"summary": "Akcja / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "lki4uj694",
+		"imageURL": "https://fwcdn.pl/fpo/13/21/1321/7541343.3.jpg",
+		"title": "Psychoza",
+		"summary": "Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "cayw3668",
+		"imageURL": "https://fwcdn.pl/fpo/99/74/459974/7380825.3.jpg",
+		"title": "Siedem dusz",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ovzoe205",
+		"imageURL": "https://fwcdn.pl/fpo/10/35/1035/7530907.3.jpg",
+		"title": "Przebudzenia",
+		"summary": "Dramat obyczajowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "cebjai200",
+		"imageURL": "https://fwcdn.pl/fpo/83/77/38377/6900691.3.jpg",
+		"title": "Miasto Boga",
+		"summary": "Dramat / Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "87vmg652",
+		"imageURL": "https://fwcdn.pl/fpo/13/26/1326/7635628.3.jpg",
+		"title": "Przekręt",
+		"summary": "Komedia kryminalna",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "sam1rk680",
+		"imageURL": "https://fwcdn.pl/fpo/10/08/1008/7729392.3.jpg",
+		"title": "Rain Man",
+		"summary": "Dramat / Komedia",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "qovsw545",
+		"imageURL": "https://fwcdn.pl/fpo/92/01/619201/7863181.3.jpg",
+		"title": "Bohemian Rhapsody",
+		"summary": "Biograficzny / Dramat / Muzyczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "doxvsh393",
+		"imageURL": "https://fwcdn.pl/fpo/56/29/375629/7670122.3.jpg",
+		"title": "Interstellar",
+		"summary": "Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "aeyrl642",
+		"imageURL": "https://fwcdn.pl/fpo/10/96/1096/7058860.3.jpg",
+		"title": "Monty Python i Święty Graal",
+		"summary": "Komedia / Kostiumowy / Przygodowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "e3jwj799",
+		"imageURL": "https://fwcdn.pl/fpo/00/02/2/6956729.3.jpg",
+		"title": "Adwokat diabła",
+		"summary": "Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "r20bs205",
+		"imageURL": "https://fwcdn.pl/fpo/18/43/11843/6916384.3.jpg",
+		"title": "Wściekłe psy",
+		"summary": "Thriller / Gangsterski",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "odr8w21",
+		"imageURL": "https://fwcdn.pl/fpo/10/91/1091/7196617.3.jpg",
+		"title": "Ojciec chrzestny III",
+		"summary": "Dramat / Gangsterski",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "k7ixn753",
+		"imageURL": "https://fwcdn.pl/fpo/86/25/8625/7183752.3.jpg",
+		"title": "Full Metal Jacket",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "mh2be890",
+		"imageURL": "https://fwcdn.pl/fpo/42/56/464256/7317256.3.jpg",
+		"title": "Wyspa tajemnic",
+		"summary": "Dramat / Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "c864t201",
+		"imageURL": "https://fwcdn.pl/fpo/22/60/752260/7813486.3.jpg",
+		"title": "Coco",
+		"summary": "Animacja / Familijny / Przygodowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "cmu9n591",
+		"imageURL": "https://fwcdn.pl/fpo/06/33/30633/7237666.3.jpg",
+		"title": "Więzień nienawiści",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "vyaq1419",
+		"imageURL": "https://fwcdn.pl/fpo/06/71/671/7016965.3.jpg",
+		"title": "Leon zawodowiec",
+		"summary": "Dramat / Kryminał",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "bg4ht74",
+		"imageURL": "https://fwcdn.pl/fpo/96/30/809630/7873350.3.jpg",
+		"title": "Green Book",
+		"summary": "Dramat / Komedia",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "jxqvx813",
+		"imageURL": "https://fwcdn.pl/fpo/09/36/936/7472818.3.jpg",
+		"title": "Gladiator",
+		"summary": "Dramat historyczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "tdvg8245",
+		"imageURL": "https://fwcdn.pl/fpo/01/36/420136/7347382.3.jpg",
+		"title": "Chłopiec w pasiastej piżamie",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ydixsf968",
+		"imageURL": "https://fwcdn.pl/fpo/01/79/179/7710998.3.jpg",
+		"title": "Szeregowiec Ryan",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "1ybsbi214",
+		"imageURL": "https://fwcdn.pl/fpo/10/52/1052/7911791.3.jpg",
+		"title": "Braveheart - Waleczne Serce",
+		"summary": "Dramat historyczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "anty4167",
+		"imageURL": "https://fwcdn.pl/fpo/88/47/698847/7655940.3.jpg",
+		"title": "Whiplash",
+		"summary": "Dramat / Muzyczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "0bz4x665",
+		"imageURL": "https://fwcdn.pl/fpo/88/02/658802/7754988.3.jpg",
+		"title": "Przełęcz ocalonych",
+		"summary": "Biograficzny / Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "iqiqi597",
+		"imageURL": "https://fwcdn.pl/fpo/00/21/21/6986021.3.jpg",
+		"title": "Buntownik z wyboru",
+		"summary": "Dramat obyczajowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "4c6h3126",
+		"imageURL": "https://fwcdn.pl/fpo/10/92/1092/7053688.3.jpg",
+		"title": "Czas Apokalipsy",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "p78aol391",
+		"imageURL": "https://fwcdn.pl/fpo/10/93/1093/7377615.3.jpg",
+		"title": "Zapach kobiety",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "uicr7224",
+		"imageURL": "https://fwcdn.pl/fpo/99/45/259945/7536864.3.jpg",
+		"title": "Prestiż",
+		"summary": "Dramat / Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ec4g870",
+		"imageURL": "https://fwcdn.pl/fpo/37/58/693758/7839647.3.jpg",
+		"title": "Avengers: Wojna bez granic",
+		"summary": "Akcja / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ifxbn882",
+		"imageURL": "https://fwcdn.pl/fpo/05/25/525/7371374.3.jpg",
+		"title": "Gwiezdne wojny: Część V - Imperium kontratakuje",
+		"summary": "Przygodowy / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "z8t7ej745",
+		"imageURL": "https://fwcdn.pl/fpo/51/03/5103/7530235.3.jpg",
+		"title": "Dobry, zły i brzydki",
+		"summary": "Western",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "1ag6if687",
+		"imageURL": "https://fwcdn.pl/fpo/10/38/1038/7618279.3.jpg",
+		"title": "Dawno temu w Ameryce",
+		"summary": "Dramat / Gangsterski",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "bixll602",
+		"imageURL": "https://fwcdn.pl/fpo/05/47/547/7583754.3.jpg",
+		"title": "Gwiezdne wojny: Część VI - Powrót Jedi",
+		"summary": "Przygodowy / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "jh6w3g155",
+		"imageURL": "https://fwcdn.pl/fpo/71/27/567127/7435839.3.jpg",
+		"title": "Służące",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "9kzko38",
+		"imageURL": "https://fwcdn.pl/fpo/00/46/240046/7131963.3.jpg",
+		"title": "W pogoni za szczęściem",
+		"summary": "Biograficzny / Dramat obyczajowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "baj4x864",
+		"imageURL": "https://fwcdn.pl/fpo/10/29/1029/7026159_1.3.jpg",
+		"title": "Kasyno",
+		"summary": "Dramat / Gangsterski",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "wkm9r29",
+		"imageURL": "https://fwcdn.pl/fpo/12/86/1286/7340682.3.jpg",
+		"title": "Amadeusz",
+		"summary": "Biograficzny / Muzyczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "sbunr767",
+		"imageURL": "https://fwcdn.pl/fpo/88/87/38887/7386912.3.jpg",
+		"title": "Pamiętnik",
+		"summary": "Melodramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "0kjr3209",
+		"imageURL": "https://fwcdn.pl/fpo/07/59/759/7301614.3.jpg",
+		"title": "Gwiezdne wojny: Część IV - Nowa nadzieja",
+		"summary": "Przygodowy / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "jeeux646",
+		"imageURL": "https://fwcdn.pl/fpo/74/06/767406/7828023.3.jpg",
+		"title": "Trzy billboardy za Ebbing, Missouri",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "psezu653",
+		"imageURL": "https://fwcdn.pl/fpo/38/36/703836/7713593.3.jpg",
+		"title": "Zwierzogród",
+		"summary": "Animacja / Komedia / Przygodowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "hkdih374",
+		"imageURL": "https://fwcdn.pl/fpo/27/00/772700/7802674.3.jpg",
+		"title": "Najlepszy",
+		"summary": "Biograficzny / Obyczajowy / Sportowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "zu50q192",
+		"imageURL": "https://fwcdn.pl/fpo/42/87/754287/7799551.3.jpg",
+		"title": "Contratiempo. Niewidzialny gość",
+		"summary": "Kryminał",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "mlqhf664",
+		"imageURL": "https://fwcdn.pl/fpo/82/28/8228/7085935.3.jpg",
+		"title": "Cinema Paradiso",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "elqa8619",
+		"imageURL": "https://fwcdn.pl/fpo/12/75/1275/7183754.3.jpg",
+		"title": "Mechaniczna pomarańcza",
+		"summary": "Dramat / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "681bp547",
+		"imageURL": "https://fwcdn.pl/fpo/32/33/743233/7866074.3.jpg",
+		"title": "Spider-Man Uniwersum",
+		"summary": "Animacja / Familijny / Akcja",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "js6cb201",
+		"imageURL": "https://fwcdn.pl/fpo/21/37/12137/7416704.3.jpg",
+		"title": "Żądło",
+		"summary": "Komedia kryminalna",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "e9x8mj724",
+		"imageURL": "https://fwcdn.pl/fpo/95/14/119514/6936984.3.jpg",
+		"title": "Pan od muzyki",
+		"summary": "Dramat / Muzyczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "55xf1g341",
+		"imageURL": "https://fwcdn.pl/fpo/54/21/5421/6926242.3.jpg",
+		"title": "Wróg u bram",
+		"summary": "Dramat / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "p9pm1817",
+		"imageURL": "https://fwcdn.pl/fpo/23/62/32362/7519166.3.jpg",
+		"title": "Złap mnie, jeśli potrafisz",
+		"summary": "Komedia kryminalna",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "x7rgz534",
+		"imageURL": "https://fwcdn.pl/fpo/45/25/624525/7556850.3.jpg",
+		"title": "Koneser",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "8zwnq795",
+		"imageURL": "https://fwcdn.pl/fpo/71/69/507169/7568460.3.jpg",
+		"title": "Labirynt",
+		"summary": "Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ztlfp774",
+		"imageURL": "https://fwcdn.pl/fpo/08/82/882/6924573.3.jpg",
+		"title": "Przerwana lekcja muzyki",
+		"summary": "Biograficzny / Dramat / Psychologiczny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "t7w9k426",
+		"imageURL": "https://fwcdn.pl/fpo/13/69/31369/7731649.3.jpg",
+		"title": "Siedmiu samurajów",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "rihg5122",
+		"imageURL": "https://fwcdn.pl/fpo/78/29/297829/7187777.3.jpg",
+		"title": "Wszystko za życie",
+		"summary": "Biograficzny / Dramat / Przygodowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ya22y572",
+		"imageURL": "https://fwcdn.pl/fpo/91/36/9136/6908595.3.jpg",
+		"title": "Requiem dla snu",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "tb7nr389",
+		"imageURL": "https://fwcdn.pl/fpo/10/14/331014/7318652.3.jpg",
+		"title": "Jak wytresować smoka",
+		"summary": "Animacja / Familijny / Fantasy / Przygodowy",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "x7b42651",
+		"imageURL": "https://fwcdn.pl/fpo/10/99/1099/7364767.3.jpg",
+		"title": "Żywot Briana",
+		"summary": "Komedia",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "yfu6t667",
+		"imageURL": "https://fwcdn.pl/fpo/09/71/971/6913021.3.jpg",
+		"title": "Księżniczka Mononoke",
+		"summary": "Fantasy / Przygodowy / Anime",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ajoju447",
+		"imageURL": "https://fwcdn.pl/fpo/12/22/1222/7314861.3.jpg",
+		"title": "Filadelfia",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "79sljh711",
+		"imageURL": "https://fwcdn.pl/fpo/87/10/128710/7525784.3.jpg",
+		"title": "Ruchomy zamek Hauru",
+		"summary": "Fantasy / Anime",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "zyyad811",
+		"imageURL": "https://fwcdn.pl/fpo/06/16/616/7268743.3.jpg",
+		"title": "Uśpieni",
+		"summary": "Dramat / Thriller",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "ngmjv90",
+		"imageURL": "https://fwcdn.pl/fpo/10/94/1094/7022344.3.jpg",
+		"title": "Życie Carlita",
+		"summary": "Gangsterski",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "dzuw3110",
+		"imageURL": "https://fwcdn.pl/fpo/65/31/6531/7863904.3.jpg",
+		"title": "Jak rozpętałem drugą wojnę światową",
+		"summary": "Komedia / Przygodowy / Wojenny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "r0do2236",
+		"imageURL": "https://fwcdn.pl/fpo/09/80/980/7518072.3.jpg",
+		"title": "Obcy - 8. pasażer \"Nostromo\"",
+		"summary": "Horror / Sci-Fi",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "t8a8xj649",
+		"imageURL": "https://fwcdn.pl/fpo/70/49/107049/7127130.3.jpg",
+		"title": "Człowiek w ogniu",
+		"summary": "Dramat / Sensacyjny",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	},
+	{
+		"id": "r3rt5388",
+		"imageURL": "https://fwcdn.pl/fpo/10/46/1046/7943939.3.jpg",
+		"title": "Taksówkarz",
+		"summary": "Dramat",
+		"rating": "0",
+		"votes": { "positive": 1, "negative": 1 }
+	}
+]
